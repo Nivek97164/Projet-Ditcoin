@@ -1,0 +1,15 @@
+{
+    "name": "KevinBernard/php-crypto",
+    "autoload": {
+        "psr-4": {
+            "KevinBernard\\PhpCrypto\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "GRDMIAM",
+            "email": "130930643+k4n3t@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
